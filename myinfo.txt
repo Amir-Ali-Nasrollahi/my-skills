@@ -1,0 +1,15 @@
+hello everone !!
+
+
+it's my skills about programming and all thing about IT and computer
+
+
+1- web developer ( i worked with some languege for backend and frontend like php for backend and js for front and i use of laravel and vue js for SPA project )
+1.1- php developer
+1.2- js developer(and i know some thing about vue js)
+
+2- i can use docker and microservice pattern for projects
+
+3- i can read packet(little) and i know some thing about network
+
+powered by linux
